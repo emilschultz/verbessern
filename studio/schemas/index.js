@@ -1,3 +1,3 @@
-import blogPosts from './blogPosts'
+import blogPost from './blogPost'
 
-export const schemaTypes = [blogPosts]
+export const schemaTypes = [blogPost]
